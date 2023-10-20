@@ -1,1 +1,31 @@
-[![@inamtyulhaq's Holopin board](https://holopin.me/inamtyulhaq)](https://holopin.io/@inamtyulhaq)
+<h1 align="center">Hello, my name is Inam Ul Haq</h1>
+<h3 align="center">An IT student</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=inamtyulhaq&label=Profile%20views&color=0e75b6&style=flat" alt="inamtyulhaq" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=inamtyulhaq" alt="inamtyulhaq" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/inamtyulhaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="inamtyulhaq" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/inamtyulhaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="inamtyulhaq" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19737301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19737301" height="30" width="40" /></a>
+<a href="https://kaggle.com/inamtyulhaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="inamtyulhaq" height="30" width="40" /></a>
+<a href="https://fb.com/inamtyulhaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="inamtyulhaq" height="30" width="40" /></a>
+<a href="https://medium.com/@inamtyulhaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@inamtyulhaq" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/inamtyulhaq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="inamtyulhaq" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/inamtyulhaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="inamtyulhaq" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/inamtyulhaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="inamtyulhaq" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/inamtyulhaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="inamtyulhaq" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@inamtyulhaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@inamtyulhaq" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=inamtyulhaq&show_icons=true&locale=en&layout=compact" alt="inamtyulhaq" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=inamtyulhaq&show_icons=true&locale=en" alt="inamtyulhaq" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=inamtyulhaq&" alt="inamtyulhaq" /></p>
+
