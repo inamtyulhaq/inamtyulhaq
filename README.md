@@ -7,11 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/inamtyulhaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="inamtyulhaq" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/inamtyulhaq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="inamtyulhaq" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/inamtyulhaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="inamtyulhaq" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/inamtyulhaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="inamtyulhaq" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@inamtyulhaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@inamtyulhaq" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/in/inamtyulhaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/inamtyulhaq" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
